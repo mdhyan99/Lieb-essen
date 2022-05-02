@@ -1,4 +1,12 @@
 body {
    background-image: url(../Liebessen/mandi.jpg);
-   background-color: rgba(139, 110, 110, 0.466);
+   background-color: rgb(32, 155, 47);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+ul {
+   color: rgb(179, 87, 87);
+   font-size: 20px;
+   font-weight: 888;
+
 }
